@@ -1,1 +1,5 @@
-![BT's GitHub stats](https://github-readme-stats.vercel.app/api?username=bt-creator&theme=dark&show_icons=true&count_private=true&hide=contribs,prs,issues,stars)
+<img src="./assets/introduction.gif" style="margin-bottom:1rem">
+
+- :earth_africa: Located in **Belgium**
+- :briefcase: **Full-time Student** at Howest, specializing in **Software Engineering**
+- :globe_with_meridians: [Portfolio Website](https://borobbrecht.be)
