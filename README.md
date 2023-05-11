@@ -1,7 +1,6 @@
 
 
 - 🌍: Located in **Belgium**
-- :briefcase: **Solution engineer** at **Volvo Group**
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BT-Creator&show_icons=truet&hide=stars&count_private=true&theme=dark)
